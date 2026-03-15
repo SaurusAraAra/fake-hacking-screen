@@ -10,7 +10,8 @@ git clone https://github.com/username/fake-hacking-screen
 cd fake-hacking-screen
 bash install.sh```
 
-Tutor run
+𝘾𝙖𝙧𝙖 𝙧𝙪𝙣
+python hack.py
 
-```python hack.py```
+
 ⚠️ Tool ini hanya animasi terminal untuk hiburan / demo.
