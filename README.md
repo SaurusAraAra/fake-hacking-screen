@@ -6,7 +6,7 @@ Fake hacking animation untuk terminal Termux.
 ```Bash
 pkg update
 pkg install git
-git clone https://github.com/username/fake-hacking-screen
+git clone https://github.com/saurusaraara/fake-hacking-screen
 cd fake-hacking-screen
 bash install.sh```
 
